@@ -1,0 +1,1 @@
+const className = 'p-0'
